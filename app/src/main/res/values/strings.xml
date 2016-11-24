@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidLibs</string>
+    <string name="aa_hello_world">Hello World Android Annotation!</string>
+    <string name="btnHelp">I need Help!</string>
+</resources>
